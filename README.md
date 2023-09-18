@@ -31,5 +31,5 @@ python generate_mesh.py
 
 ### Acknowledgement
 
-kiria maria
+This research was part of the project [‘Inspire’](https://itn-inspire.eu/) funded by the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement no. 813424
 
