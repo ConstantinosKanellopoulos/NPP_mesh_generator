@@ -13,10 +13,7 @@ generate_mesh.py is a python script that integrates [Gmsh](https://gmsh.info/) l
 
 - python
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 0dc5d8d22fb25426c08863b49cefd889045b0c23
 ### Execution
 
 To execute this script, simply open a terminal and type:
@@ -29,9 +26,8 @@ python generate_mesh.py
 ### Licence
 
 [GNU General Public License v3.0](./COPYING)
-<<<<<<< HEAD
+
 
 
 ### Acknowledgement
-=======
->>>>>>> 0dc5d8d22fb25426c08863b49cefd889045b0c23
+
