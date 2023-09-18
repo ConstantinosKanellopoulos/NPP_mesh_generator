@@ -35,5 +35,5 @@ This research was part of the project '[INSPIRE](https://itn-inspire.eu/)' funde
 
 ![logos](./logos.png)
 
-<img align="left" width="100" height="100" src="https://zurich.impacthub.ch/wp-content/uploads/2019/07/eth-logo-for-website.jpg">
+<img align="left" width="100" height="100" src="https://photos.google.com/photo/AF1QipNOChRrbGbzbXTSi7Y90KDXPsbXuxz5WZDrOANQ">
 
