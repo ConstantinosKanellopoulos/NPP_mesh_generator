@@ -11,9 +11,6 @@ generate_mesh.py is a python script that integrates [Gmsh](https://gmsh.info/) l
 
 - python
 
-
-
-
 ### Execution
 
 To execute this script, simply open a terminal and type:
