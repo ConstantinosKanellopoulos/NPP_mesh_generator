@@ -35,5 +35,5 @@ This research was part of the project '[INSPIRE](https://itn-inspire.eu/)' funde
 
 ![logos](./logos.png)
 
-<img align="left" width="100" height="100" src="https://www.blogger.com/u/1/blog/post/edit/8702244666508789509/6558951211528247384">
+<img align="left" width="100" height="100" src="https://photos.app.goo.gl/YkDmW1Zywtaze5z9A">
 
