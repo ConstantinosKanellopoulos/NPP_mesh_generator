@@ -33,4 +33,3 @@ python generate_mesh.py
 
 This research was part of the project '[INSPIRE](https://itn-inspire.eu/)' funded by the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement no. 813424
 
-![photo](./inspire.png)
