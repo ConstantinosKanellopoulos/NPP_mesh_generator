@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/693150991.svg)](https://zenodo.org/badge/latestdoi/693150991)
+
+
 generate_mesh.py
 =========
 
@@ -44,4 +47,3 @@ This research was part of the project '[INSPIRE](https://itn-inspire.eu/)' funde
 </p>
 
 
-[![DOI](https://zenodo.org/badge/693150991.svg)](https://zenodo.org/badge/latestdoi/693150991)
