@@ -35,5 +35,5 @@ This research was part of the project '[INSPIRE](https://itn-inspire.eu/)' funde
 
 ![logos](./logos.png)
 
-<img align="left" width="100" height="100" src="https://github.com/ConstantinosKanellopoulos/images_for_my_repo/blob/master/logos.png">
+<img align="left" src="https://github.com/ConstantinosKanellopoulos/images_for_my_repo/blob/master/logos.png">
 
