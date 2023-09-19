@@ -12,6 +12,9 @@ generate_mesh.py
   <img src="https://github.com/ConstantinosKanellopoulos/images_for_my_repo/blob/master/overview_and_cross_section_of_NPP_model.png">
 </p>
 
+<p align="center">
+  <img src="https://github.com/ConstantinosKanellopoulos/images_for_my_repo/blob/master/overview_and_cross_section_of_NPP_model_2.png">
+</p>
 
 ### Required software
 
