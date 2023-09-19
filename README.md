@@ -8,6 +8,10 @@ generate_mesh.py
 
 ****This script was created for the needs of the paper with title: Dynamic Structure-Soil-Structure Interaction for Nuclear Power Plants****
 
+<p align="center">
+  <img src="https://github.com/ConstantinosKanellopoulos/images_for_my_repo/blob/master/overview_and_cross_section_of_NPP_model.png">
+</p>
+
 
 ### Required software
 
@@ -38,3 +42,4 @@ This research was part of the project '[INSPIRE](https://itn-inspire.eu/)' funde
 <p align="center">
   <img src="https://github.com/ConstantinosKanellopoulos/images_for_my_repo/blob/master/logos.png">
 </p>
+
