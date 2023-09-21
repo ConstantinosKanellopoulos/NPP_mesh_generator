@@ -18,7 +18,7 @@ generate_mesh.py
 
 ### Required software
 
-- python
+- [python](https://www.python.org/)
 
 
 ### How to run
