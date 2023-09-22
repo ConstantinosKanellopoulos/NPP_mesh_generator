@@ -55,7 +55,7 @@ This research was part of the project '[INSPIRE](https://itn-inspire.eu/)' funde
 <!-- <img align="center" src="https://github.com/ConstantinosKanellopoulos/images_for_my_repo/blob/master/logos.png"> -->
 
 <p align="center">
-  <img src="https://github.com/ConstantinosKanellopoulos/images_for_my_repo/blob/master/logos.png">
+  <img src="https://github.com/ConstantinosKanellopoulos/images_for_my_repo/blob/master/general/logos.png">
 </p>
 
 
