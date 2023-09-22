@@ -35,6 +35,13 @@ python generate_mesh.py
 ```
 
 
+
+## How to cite
+
+If you would like to cite [generate_mesh.py](./generate_mesh.py), please give reference to the corresponding journal paper :
+
+
+
 ## Licence
 
 [GNU General Public License v3.0](./COPYING)
