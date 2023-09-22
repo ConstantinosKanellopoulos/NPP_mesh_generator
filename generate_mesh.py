@@ -2,9 +2,7 @@
 # generate_mesh.py : python script that integrates Gmsh library and generates the mesh file (mesh.msh2) of the desired 3D model (e.g., Reactor building, Reactor building + Auxiliary building,
 #                    Reactor building + Auxiliary building + Seismic Resonant Metamaterials, etc) 
 # ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# author: Constantinos Kanellopoulos (2023)
-# Chair of Structural Dynamics and Earthquake Engineering
-# ETH, Zurich
+# © 2023 ETH Zurich, Constantinos Kanellopoulos; Institute of Structural Engineering; Chair of Structural Dynamics and Earthquake Engineering
 # ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ###########################################################################################################################################################################
