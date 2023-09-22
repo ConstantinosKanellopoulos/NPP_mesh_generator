@@ -28,7 +28,7 @@
 
 ## How to run
 
-To run this script, simply open a terminal and type:
+To run [generate_mesh.py](./generate_mesh.py), simply open a terminal and type:
 
 ```bash
 python generate_mesh.py
