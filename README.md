@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/ConstantinosKanellopoulos/images_for_my_repo/blob/master/overview_and_cross_section_of_NPP_model.png">
+  <img src="https://github.com/ConstantinosKanellopoulos/images_for_my_repo/blob/master/NPP_mesh_generator/overview_and_cross_section_of_NPP_model.png">
 </p>
 
 
